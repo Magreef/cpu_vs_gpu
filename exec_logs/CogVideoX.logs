@@ -1,0 +1,170 @@
+[INFO] Prompt: A cute fluffy giant panda sitting in a lush green forest, happily eating a fresh bamboo stalk, high detail, cinematic style
+[INFO] Loading THUDM/CogVideoX-2b on CPU...
+Loading pipeline components...:   0%|          | 0/5 [00:00<?, ?it/s]
+
+Loading weights:   0%|          | 0/219 [00:00<?, ?it/s]
+
+Loading weights:   0%|          | 1/219 [00:00<03:11,  1.14it/s]
+
+Loading weights:   1%|          | 2/219 [00:01<02:04,  1.75it/s]
+
+Loading weights:   3%|▎         | 7/219 [00:02<01:16,  2.77it/s]
+
+Loading weights:   4%|▍         | 9/219 [00:02<00:55,  3.76it/s]
+
+Loading weights:   6%|▌         | 13/219 [00:04<01:05,  3.14it/s]
+
+Loading weights:   7%|▋         | 16/219 [00:05<00:59,  3.39it/s]
+
+Loading weights:   8%|▊         | 18/219 [00:06<01:17,  2.61it/s]
+
+Loading weights:  11%|█▏        | 25/219 [00:07<00:46,  4.14it/s]
+
+Loading weights:  12%|█▏        | 27/219 [00:08<00:51,  3.73it/s]
+
+Loading weights:  14%|█▍        | 31/219 [00:08<00:39,  4.75it/s]
+
+Loading weights:  15%|█▍        | 32/219 [00:09<00:50,  3.69it/s]
+
+Loading weights:  16%|█▌        | 34/219 [00:09<00:40,  4.57it/s]
+
+Loading weights:  16%|█▌        | 35/219 [00:12<02:01,  1.51it/s]
+
+Loading weights:  24%|██▎       | 52/219 [00:13<00:30,  5.54it/s]
+
+Loading weights:  25%|██▍       | 54/219 [00:14<00:33,  4.88it/s]
+
+Loading weights:  27%|██▋       | 59/219 [00:14<00:26,  5.95it/s]
+
+Loading weights:  28%|██▊       | 61/219 [00:15<00:33,  4.74it/s]
+
+Loading weights:  28%|██▊       | 62/219 [00:16<00:48,  3.22it/s]
+
+Loading weights:  32%|███▏      | 70/219 [00:17<00:33,  4.48it/s]
+
+Loading weights:  33%|███▎      | 72/219 [00:18<00:33,  4.40it/s]
+
+Loading weights:  35%|███▍      | 76/219 [00:18<00:26,  5.46it/s]
+
+Loading weights:  36%|███▌      | 79/219 [00:20<00:41,  3.34it/s]
+
+Loading weights:  39%|███▉      | 85/219 [00:22<00:39,  3.39it/s]
+
+Loading weights:  40%|████      | 88/219 [00:23<00:35,  3.69it/s]
+
+Loading weights:  41%|████      | 89/219 [00:23<00:37,  3.48it/s]
+
+Loading weights:  43%|████▎     | 94/219 [00:23<00:22,  5.46it/s]
+
+Loading weights:  44%|████▍     | 96/219 [00:25<00:34,  3.61it/s]
+
+Loading weights:  44%|████▍     | 97/219 [00:25<00:41,  2.91it/s]
+
+Loading weights:  45%|████▍     | 98/219 [00:26<00:38,  3.13it/s]
+
+Loading weights:  47%|████▋     | 102/219 [00:26<00:28,  4.16it/s]
+
+Loading weights:  48%|████▊     | 106/219 [00:26<00:20,  5.64it/s]
+
+Loading weights:  49%|████▉     | 107/219 [00:29<00:47,  2.35it/s]
+
+Loading weights:  52%|█████▏    | 113/219 [00:29<00:25,  4.21it/s]
+
+Loading weights:  53%|█████▎    | 115/219 [00:29<00:22,  4.68it/s]
+
+Loading weights:  53%|█████▎    | 116/219 [00:30<00:30,  3.43it/s]
+
+Loading weights:  53%|█████▎    | 117/219 [00:31<00:38,  2.63it/s]
+
+Loading weights:  56%|█████▌    | 122/219 [00:31<00:20,  4.72it/s]
+
+Loading weights:  57%|█████▋    | 124/219 [00:32<00:24,  3.90it/s]
+
+Loading weights:  58%|█████▊    | 126/219 [00:32<00:22,  4.09it/s]
+
+Loading weights:  59%|█████▉    | 129/219 [00:33<00:18,  4.84it/s]
+
+Loading weights:  61%|██████    | 133/219 [00:34<00:22,  3.75it/s]
+
+Loading weights:  61%|██████    | 134/219 [00:36<00:40,  2.08it/s]
+
+Loading weights:  65%|██████▌   | 143/219 [00:37<00:16,  4.66it/s]
+
+Loading weights:  66%|██████▌   | 144/219 [00:37<00:15,  4.82it/s]
+
+Loading weights:  68%|██████▊   | 148/219 [00:37<00:13,  5.34it/s]
+
+Loading weights:  69%|██████▉   | 151/219 [00:39<00:17,  3.79it/s]
+
+Loading weights:  69%|██████▉   | 152/219 [00:40<00:25,  2.63it/s]
+
+Loading weights:  73%|███████▎  | 160/219 [00:42<00:15,  3.69it/s]
+
+Loading weights:  74%|███████▎  | 161/219 [00:42<00:15,  3.84it/s]
+
+Loading weights:  74%|███████▍  | 162/219 [00:42<00:15,  3.72it/s]
+
+Loading weights:  75%|███████▍  | 164/219 [00:42<00:13,  4.12it/s]
+
+Loading weights:  76%|███████▋  | 167/219 [00:43<00:12,  4.04it/s]
+
+Loading weights:  77%|███████▋  | 169/219 [00:44<00:17,  2.92it/s]
+
+Loading weights:  78%|███████▊  | 170/219 [00:46<00:23,  2.11it/s]
+
+Loading weights:  81%|████████▏ | 178/219 [00:47<00:10,  4.02it/s]
+
+Loading weights:  82%|████████▏ | 179/219 [00:49<00:17,  2.23it/s]
+
+Loading weights:  85%|████████▌ | 187/219 [00:50<00:08,  3.82it/s]
+
+Loading weights:  89%|████████▊ | 194/219 [00:51<00:05,  4.70it/s]
+
+Loading weights:  89%|████████▉ | 196/219 [00:53<00:08,  2.86it/s]
+
+Loading weights:  94%|█████████▎| 205/219 [00:54<00:03,  4.38it/s]
+
+Loading weights:  94%|█████████▍| 206/219 [00:54<00:03,  4.27it/s]
+
+Loading weights:  95%|█████████▍| 207/219 [00:55<00:03,  3.49it/s]
+
+Loading weights:  96%|█████████▌| 210/219 [00:55<00:02,  4.30it/s]
+
+Loading weights:  98%|█████████▊| 215/219 [00:56<00:00,  4.21it/s]
+
+Loading weights:  99%|█████████▊| 216/219 [00:57<00:00,  3.69it/s]
+
+Loading weights: 100%|██████████| 219/219 [00:57<00:00,  4.37it/s]
+Loading weights: 100%|██████████| 219/219 [00:57<00:00,  3.78it/s]
+
+Loading pipeline components...:  40%|████      | 2/5 [00:58<01:28, 29.40s/it]
+Loading pipeline components...:  60%|██████    | 3/5 [00:59<00:34, 17.28s/it]
+Loading pipeline components...:  80%|████████  | 4/5 [01:23<00:20, 20.09s/it]
+Loading pipeline components...: 100%|██████████| 5/5 [01:24<00:00, 13.42s/it]
+Loading pipeline components...: 100%|██████████| 5/5 [01:24<00:00, 16.97s/it]
+[INFO] Enabling memory optimizations...
+
+[INFO] Generating high-quality video... (This will be significantly slower than LTX on CPU)
+  0%|          | 0/20 [00:00<?, ?it/s]
+  5%|▌         | 1/20 [10:22<3:17:16, 623.00s/it]
+ 10%|█         | 2/20 [20:42<3:06:18, 621.02s/it]
+ 15%|█▌        | 3/20 [31:00<2:55:29, 619.38s/it]
+ 20%|██        | 4/20 [41:24<2:45:41, 621.37s/it]
+ 25%|██▌       | 5/20 [51:44<2:35:11, 620.75s/it]
+ 30%|███       | 6/20 [1:02:01<2:24:35, 619.70s/it]
+ 35%|███▌      | 7/20 [1:12:19<2:14:07, 619.00s/it]
+ 40%|████      | 8/20 [1:22:37<2:03:43, 618.61s/it]
+ 45%|████▌     | 9/20 [1:32:54<1:53:19, 618.18s/it]
+ 50%|█████     | 10/20 [1:43:10<1:42:56, 617.62s/it]
+ 55%|█████▌    | 11/20 [1:53:27<1:32:37, 617.47s/it]
+ 60%|██████    | 12/20 [2:03:44<1:22:17, 617.19s/it]
+ 65%|██████▌   | 13/20 [2:14:01<1:11:59, 617.06s/it]
+ 70%|███████   | 14/20 [2:24:18<1:01:42, 617.02s/it]
+ 75%|███████▌  | 15/20 [2:34:35<51:25, 617.09s/it]  
+ 80%|████████  | 16/20 [2:44:53<41:09, 617.35s/it]
+ 85%|████████▌ | 17/20 [2:55:10<30:52, 617.40s/it]
+ 90%|█████████ | 18/20 [3:05:28<20:34, 617.42s/it]
+ 95%|█████████▌| 19/20 [3:15:46<10:17, 617.67s/it]
+100%|██████████| 20/20 [3:26:05<00:00, 618.03s/it]
+100%|██████████| 20/20 [3:26:05<00:00, 618.27s/it]
+[SUCCESS] Saved to: /opt/video_out/cogvideo_generated.mp4

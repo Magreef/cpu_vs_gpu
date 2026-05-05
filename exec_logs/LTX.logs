@@ -1,0 +1,134 @@
+2026-05-01T20:36:39 [INFO] __main__ - Starting pipeline for topic: DevOps Automation
+2026-05-01T20:36:39 [INFO] __main__ - Step 1: Generating text script...
+2026-05-01T20:36:39 [INFO] pipeline.text_gen - Loading tokenizer from /opt/ai_model/gemma-4b-it
+2026-05-01T20:36:46 [INFO] pipeline.text_gen - No chat template found; applying Gemma default fallback.
+2026-05-01T20:36:46 [INFO] pipeline.text_gen - Loading model weights into RAM (this may take a moment)...
+[transformers] `torch_dtype` is deprecated! Use `dtype` instead!
+
+Loading weights:   0%|          | 0/1951 [00:00<?, ?it/s]
+Loading weights:   9%|▉         | 178/1951 [00:00<00:01, 1461.18it/s]
+Loading weights:  17%|█▋        | 325/1951 [00:00<00:02, 613.45it/s] 
+Loading weights:  21%|██        | 410/1951 [00:00<00:03, 470.51it/s]
+Loading weights:  24%|██▍       | 470/1951 [00:01<00:03, 374.19it/s]
+Loading weights:  26%|██▋       | 516/1951 [00:01<00:04, 321.87it/s]
+Loading weights:  28%|██▊       | 553/1951 [00:01<00:04, 325.27it/s]
+Loading weights:  30%|███       | 589/1951 [00:01<00:04, 287.25it/s]
+Loading weights:  32%|███▏      | 620/1951 [00:01<00:04, 285.83it/s]
+Loading weights:  33%|███▎      | 650/1951 [00:01<00:05, 247.09it/s]
+Loading weights:  35%|███▌      | 685/1951 [00:02<00:06, 205.82it/s]
+Loading weights:  38%|███▊      | 739/1951 [00:02<00:04, 247.18it/s]
+Loading weights:  38%|███▊      | 739/1951 [00:20<00:04, 247.18it/s]
+Loading weights:  39%|███▊      | 755/1951 [01:08<11:15,  1.77it/s] 
+Loading weights:  75%|███████▌  | 1473/1951 [01:08<00:27, 17.19it/s]
+Loading weights: 100%|██████████| 1951/1951 [01:08<00:00, 28.56it/s]
+2026-05-01T20:37:57 [INFO] pipeline.text_gen - Generating text content for topic: DevOps Automation
+2026-05-01T20:43:24 [INFO] __main__ - This will be used in Post: What is Devops?
+It’s practice of using automation tools in order to improve development process & increase productivity which ultimately reduces costs too by reducing human error as well like manual testing etc. It helps us make changes quickly without compromising quality assurance thus providing reliable products with better customer experience at lower cost than ever before! The main idea behind devops comes from software engineering philosophy called “Continuous Integration” (CI) where all team members work on code simultaneously while continuously integrating new features into existing codebase so that everyone can see what each person has done throughout entire project lifecycle right up until deployment stage when everything gets published publicly online finally getting ready end users access them immediately after launch date announced beforehand :) This approach allows teams collaborate effectively communicate openly build trust within their organization faster cycles iterations hence resulting higher overall performance levels across board! Overall speaking this method brings forth several benefits including quicker delivery time shorter feedback loops improved collaboration efficiency increased transparency among stakeholders reduced waste wastage due less bugs defects detected early stages allowing developers focus more innovating instead debugging problems later down line journey life cycle roadmap path way forward future growth plans strategic vision goals objectives milestones targets aims aspirations dreams ambitions hopes desires wishes prayers blessings gratitude love compassion kindness understanding empathy patience tolerance wisdom knowledge expertise skill proficiency mastery learning education training coaching mentoring guidance support assistance help advice counsel instruction direction leadership management supervision control oversight monitoring evaluation assessment review analysis report recommendation decision making planning organizing scheduling budgeting forecasting estimating costing pricing bidding tendering procurement sourcing supply chain logistics distribution warehousing inventory tracking accounting finance banking insurance healthcare medical technology research innovation creativity imagination inspiration motivation empowerment self confidence self esteem assertiveness communication listening active engagement participation involvement teamwork collaboration cooperation partnership alliance networking relationship building social media marketing advertising promotion branding positioning differentiation competitive advantage market share penetration expansion scaling reach global scale internationalization localization adaptation cultural sensitivity diversity inclusion equity justice fairness equality rights freedoms liberties universal values principles ethics morality integrity honesty authenticity sincerity truthfulness reliability trustworthiness credibility authority legitimacy power influence persuasion negotiation arbitration mediation conciliation compromise consensus agreement resolution settlement judgment verdict ruling decree mandate command directive request proposal bid tender RFP RFQ RFI RFT IT information technology computer systems hardware software applications databases networks telecommunications internet web mobile cloud storage analytics machine learning artificial intelligence robotics nanotechnology quantum computing blockchain cryptocurrency digital currency fintech payments ecommerce retail e commerce shopping cart checkout shipping fulfillment warehouse management ERP CRM HR recruitment staffing employment hiring onboarding orientation training career advancement promotions transfers layoffs terminations separations downsizing restructuring reorganization mergers acquisitions divestitures spin offs IPO initial public offering private placement fund raising investment capital funding debt financing loans bonds stocks shares equities mutual funds ETFs futures contracts options warrants convertible debentures redeemable preferred stock common stock founders
+2026-05-01T20:43:24 [INFO] __main__ - Step 2: Generating visual prompt from script...
+2026-05-01T20:43:24 [INFO] pipeline.text_gen - Generating text content for topic: What is Devops?
+It’s practice of using automation tools in order to improve development process & increase productivity which ultimately reduces costs too by reducing human error as well like manual testing etc. It helps us make changes quickly without compromising quality assurance thus providing reliable products with better customer experience at lower cost than ever before! The main idea behind devops comes from software engineering philosophy called “Continuous Integration” (CI) where all team members work on code simultaneously while continuously integrating new features into existing codebase so that everyone can see what each person has done throughout entire project lifecycle right up until deployment stage when everything gets published publicly online finally getting ready end users access them immediately after launch date announced beforehand :) This approach allows teams collaborate effectively communicate openly build trust within their organization faster cycles iterations hence resulting higher overall performance levels across board! Overall speaking this method brings forth several benefits including quicker delivery time shorter feedback loops improved collaboration efficiency increased transparency among stakeholders reduced waste wastage due less bugs defects detected early stages allowing developers focus more innovating instead debugging problems later down line journey life cycle roadmap path way forward future growth plans strategic vision goals objectives milestones targets aims aspirations dreams ambitions hopes desires wishes prayers blessings gratitude love compassion kindness understanding empathy patience tolerance wisdom knowledge expertise skill proficiency mastery learning education training coaching mentoring guidance support assistance help advice counsel instruction direction leadership management supervision control oversight monitoring evaluation assessment review analysis report recommendation decision making planning organizing scheduling budgeting forecasting estimating costing pricing bidding tendering procurement sourcing supply chain logistics distribution warehousing inventory tracking accounting finance banking insurance healthcare medical technology research innovation creativity imagination inspiration motivation empowerment self confidence self esteem assertiveness communication listening active engagement participation involvement teamwork collaboration cooperation partnership alliance networking relationship building social media marketing advertising promotion branding positioning differentiation competitive advantage market share penetration expansion scaling reach global scale internationalization localization adaptation cultural sensitivity diversity inclusion equity justice fairness equality rights freedoms liberties universal values principles ethics morality integrity honesty authenticity sincerity truthfulness reliability trustworthiness credibility authority legitimacy power influence persuasion negotiation arbitration mediation conciliation compromise consensus agreement resolution settlement judgment verdict ruling decree mandate command directive request proposal bid tender RFP RFQ RFI RFT IT information technology computer systems hardware software applications databases networks telecommunications internet web mobile cloud storage analytics machine learning artificial intelligence robotics nanotechnology quantum computing blockchain cryptocurrency digital currency fintech payments ecommerce retail e commerce shopping cart checkout shipping fulfillment warehouse management ERP CRM HR recruitment staffing employment hiring onboarding orientation training career advancement promotions transfers layoffs terminations separations downsizing restructuring reorganization mergers acquisitions divestitures spin offs IPO initial public offering private placement fund raising investment capital funding debt financing loans bonds stocks shares equities mutual funds ETFs futures contracts options warrants convertible debentures redeemable preferred stock common stock founders
+2026-05-01T20:49:13 [INFO] __main__ - This will be used for video generation: You are an expert Python developer and DevOps engineer. Respond concisely and accurately to technical questions.
+
+Based on the following script, write a concise one-sentence visual description for a video generator. Focus on lighting, scenery, and atmosphere: What is Devops?
+DevOps is a set of practices that combines software development (Dev) and IT operations (Ops). Its goal is to shorten the development lifecycle and deliver high-quality software faster. By automating processes such as testing, deployment, and monitoring, DevOps enables organizations to respond quickly to changing business needs and deliver value to customers more efficiently. In short, it's about breaking down silos between different teams and departments within an organization so they can work together more effectively towards shared goals.
+The key components of DevOps include continuous integration/continuous delivery (CI/CD), infrastructure as code (IaC), containerization technologies like Docker or Kubernetes for scalable deployments; automated testing frameworks like Selenium WebDriver or JUnit; logging solutions such as ELK stack (Elasticsearch Logstash Kibana); monitoring tools like Prometheus Grafana Nagios Zabbix Splunk Datadog New Relic AppDynamics Dynatrace IBM Watson IoT Cloud Foundry Pivotal Cloud Foundry OpenShift Red Hat Openshift Azure DevOps Jenkins Bamboo TeamCity Bitbucket GitHub GitLab SVN CVS Mercurial Subversion Perforce ClearCase Rational ClearQuest Rally JIRA Confluence Trello Asana Basecamp Slack Hipchat Discord Skype Zoom Webex Hangouts Meet Google Docs Sheets Slides Forms Calendar Gmail Drive Dropbox OneDrive Box iCloud Amazon AWS EC2 S3 RDS DynamoDB Lambda API Gateway Route53 CloudFront ElasticBeanstalk CodeDeploy OpsWorks ECS EKS Fargate Amplify Serverless Framework Terraform Ansible Puppet Chef SaltStack Vagrant Packer Docker Compose Kubernetes Helm Rancher OpenShift Harbor Quay Artifactory Nexus Sonatype Nexus Repository Manager JFrog Artifactory Nexus Maven Central Ivy Ivy Leiningen Gradle SBT Ant Maven Apache Tomcat Jetty Undertow WildFly GlassFish Oracle Java EE Spring Boot Spring MVC Hibernate JPA ORM JDBC MySQL PostgreSQL MongoDB Redis Memcached Elasticsearch Solr Lucene Sphinx Nutch Hadoop Spark Kafka Storm Flume Sqoop Hive Pig Oozie Ambari Cloudera Hortonworks MapReduce YARN HDFS HBase Cassandra Couchbase Neo4j Graph Database Neo4j OrientDB RavenDB SQLite MariaDB MariaDB MariaDB Aurora Microsoft SQL Server Azure Cosmos DB Azure Data Lake Storage Blob File Queue Table Event Hub Service Bus Azure Functions Logic Apps PowerApps Flow Bot Framework Cortana Alexa Siri Google Assistant Home Assistant IFTTT Zapier Twilio Twilio SendGrid
+2026-05-01T20:49:13 [INFO] __main__ - Step 3: Generating 5-second video...
+2026-05-01T20:49:13 [INFO] pipeline.video_gen - Initializing Video Pipeline from: /opt/ai_model/ltx-video
+
+Loading pipeline components...:   0%|          | 0/5 [00:00<?, ?it/s]
+Loading pipeline components...:  20%|██        | 1/5 [00:00<00:02,  1.66it/s]
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]
+
+Loading checkpoint shards:  50%|█████     | 1/2 [00:01<00:01,  1.09s/it]
+
+Loading checkpoint shards: 100%|██████████| 2/2 [00:01<00:00,  1.68it/s]
+Loading checkpoint shards: 100%|██████████| 2/2 [00:01<00:00,  1.50it/s]
+
+Loading pipeline components...:  40%|████      | 2/5 [00:02<00:03,  1.14s/it]
+
+Loading weights:   0%|          | 0/219 [00:00<?, ?it/s]
+
+Loading weights:  11%|█         | 23/219 [00:00<00:01, 104.82it/s]
+
+Loading weights:  16%|█▌        | 34/219 [00:00<00:01, 101.72it/s]
+
+Loading weights:  21%|██        | 45/219 [00:00<00:02, 73.58it/s] 
+
+Loading weights:  24%|██▍       | 53/219 [00:00<00:03, 51.26it/s]
+
+Loading weights:  27%|██▋       | 59/219 [00:01<00:03, 42.01it/s]
+Loading weights: 100%|██████████| 219/219 [00:01<00:00, 201.15it/s]
+
+Loading pipeline components...:  60%|██████    | 3/5 [00:05<00:04,  2.21s/it]
+Loading pipeline components...: 100%|██████████| 5/5 [00:05<00:00,  1.06s/it]
+Loading pipeline components...: 100%|██████████| 5/5 [00:05<00:00,  1.19s/it]
+2026-05-01T20:49:19 [INFO] pipeline.video_gen - Setting LTXPipeline tokenizer max_length to 512
+2026-05-01T20:49:19 [INFO] pipeline.video_gen - Generating 81 frames (5s) at 480x320...
+[transformers] Token indices sequence length is longer than the specified maximum sequence length for this model (730 > 512). Running this sequence through the model will result in indexing errors
+The following part of your input was truncated because `max_sequence_length` is set to  128 tokens: ["organizations to respond quickly to changing business needs and deliver value to customers more efficiently. In short, it's about breaking down silos between different teams and departments within an organization so they can work together more effectively towards shared goals. The key components of DevOps include continuous integration/continuous delivery (CI/CD), infrastructure as code (IaC), containerization technologies like Docker or Kubernetes for scalable deployments; automated testing frameworks like Selenium WebDriver or JUnit; logging solutions such as ELK stack (Elasticsearch Logstash Kibana); monitoring tools like Prometheus Grafana Nagios Zabbix Splunk Datadog New Relic AppDynamics Dynatrace IBM Watson IoT Cloud Foundry Pivotal Cloud Foundry OpenShift Red Hat Openshift Azure DevOps Jenkins Bamboo TeamCity Bitbucket GitHub GitLab SVN CVS Mercurial Subversion Perforce ClearCase Rational ClearQuest Rally JIRA Confluence Trello Asana Basecamp Slack Hipchat Discord Skype Zoom Webex Hangouts Meet Google Docs Sheets Slides Forms Calendar Gmail Drive Dropbox OneDrive Box iCloud Amazon AWS EC2 S3 RDS DynamoDB Lambda API Gateway Route53 CloudFront ElasticBeanstalk CodeDeploy OpsWorks ECS EKS Fargate Amplify Serverless Framework Terraform Ansible Puppet Chef SaltStack Vagrant Packer Docker Compose Kubernetes Helm Rancher OpenShift Harbor Quay Artifactory Nexus Sonatype Nexus Repository Manager JFrog Artifactory Nexus Maven Central Ivy Ivy Leiningen Gradle SBT Ant Maven Apache Tomcat Jetty Undertow WildFly GlassFish Oracle Java EE Spring Boot Spring MVC Hibernate JPA ORM JDBC MySQL PostgreSQL MongoDB Redis Memcached Elasticsearch Solr Lucene Sphinx Nutch Hadoop Spark Kafka Storm Flume Sqoop Hive Pig Oozie Ambari Cloudera Hortonworks MapReduce YARN HDFS HBase Cassandra Couchbase Neo4j Graph Database Neo4j OrientDB RavenDB SQLite MariaDB MariaDB MariaDB Aurora Microsoft SQL Server Azure Cosmos DB Azure Data Lake Storage Blob File Queue Table Event Hub Service Bus Azure Functions Logic Apps PowerApps Flow Bot Framework Cortana Alexa Siri Google Assistant Home Assistant IFTTT Zapier Twilio Twilio SendGrid"]
+
+  0%|          | 0/60 [00:00<?, ?it/s]
+  2%|▏         | 1/60 [02:54<2:51:22, 174.28s/it]
+  3%|▎         | 2/60 [05:09<2:26:32, 151.60s/it]
+  5%|▌         | 3/60 [07:12<2:11:20, 138.25s/it]
+  7%|▋         | 4/60 [09:14<2:03:15, 132.06s/it]
+  8%|▊         | 5/60 [11:16<1:57:44, 128.44s/it]
+ 10%|█         | 6/60 [13:18<1:53:35, 126.22s/it]
+ 12%|█▏        | 7/60 [15:20<1:50:18, 124.87s/it]
+ 13%|█▎        | 8/60 [17:23<1:47:26, 123.98s/it]
+ 15%|█▌        | 9/60 [19:25<1:45:02, 123.57s/it]
+ 17%|█▋        | 10/60 [21:27<1:42:37, 123.14s/it]
+ 18%|█▊        | 11/60 [23:30<1:40:19, 122.85s/it]
+ 20%|██        | 12/60 [25:32<1:38:08, 122.67s/it]
+ 22%|██▏       | 13/60 [27:34<1:35:55, 122.45s/it]
+ 23%|██▎       | 14/60 [29:36<1:33:52, 122.44s/it]
+ 25%|██▌       | 15/60 [31:38<1:31:46, 122.36s/it]
+ 27%|██▋       | 16/60 [33:41<1:29:46, 122.41s/it]
+ 28%|██▊       | 17/60 [35:43<1:27:43, 122.42s/it]
+ 30%|███       | 18/60 [37:46<1:25:40, 122.39s/it]
+ 32%|███▏      | 19/60 [39:48<1:23:38, 122.40s/it]
+ 33%|███▎      | 20/60 [41:51<1:21:41, 122.53s/it]
+ 35%|███▌      | 21/60 [43:54<1:19:40, 122.58s/it]
+ 37%|███▋      | 22/60 [45:56<1:17:33, 122.47s/it]
+ 38%|███▊      | 23/60 [47:58<1:15:30, 122.44s/it]
+ 40%|████      | 24/60 [50:00<1:13:24, 122.36s/it]
+ 42%|████▏     | 25/60 [52:02<1:11:18, 122.25s/it]
+ 43%|████▎     | 26/60 [54:05<1:09:20, 122.37s/it]
+ 45%|████▌     | 27/60 [56:07<1:07:17, 122.36s/it]
+ 47%|████▋     | 28/60 [58:10<1:05:19, 122.48s/it]
+ 48%|████▊     | 29/60 [1:00:12<1:03:16, 122.45s/it]
+ 50%|█████     | 30/60 [1:02:15<1:01:14, 122.47s/it]
+ 52%|█████▏    | 31/60 [1:04:17<59:09, 122.39s/it]  
+ 53%|█████▎    | 32/60 [1:06:20<57:09, 122.48s/it]
+ 55%|█████▌    | 33/60 [1:08:22<55:06, 122.45s/it]
+ 57%|█████▋    | 34/60 [1:10:25<53:06, 122.55s/it]
+ 58%|█████▊    | 35/60 [1:12:28<51:06, 122.65s/it]
+ 60%|██████    | 36/60 [1:14:31<49:03, 122.63s/it]
+ 62%|██████▏   | 37/60 [1:16:33<46:59, 122.58s/it]
+ 63%|██████▎   | 38/60 [1:18:36<44:58, 122.66s/it]
+ 65%|██████▌   | 39/60 [1:20:39<42:56, 122.69s/it]
+ 67%|██████▋   | 40/60 [1:22:41<40:54, 122.72s/it]
+ 68%|██████▊   | 41/60 [1:24:44<38:49, 122.59s/it]
+ 70%|███████   | 42/60 [1:26:46<36:46, 122.57s/it]
+ 72%|███████▏  | 43/60 [1:28:49<34:43, 122.56s/it]
+ 73%|███████▎  | 44/60 [1:30:51<32:41, 122.60s/it]
+ 75%|███████▌  | 45/60 [1:32:54<30:40, 122.70s/it]
+ 77%|███████▋  | 46/60 [1:34:57<28:38, 122.76s/it]
+ 78%|███████▊  | 47/60 [1:37:00<26:36, 122.82s/it]
+ 80%|████████  | 48/60 [1:39:03<24:34, 122.84s/it]
+ 82%|████████▏ | 49/60 [1:41:06<22:31, 122.83s/it]
+ 83%|████████▎ | 50/60 [1:43:09<20:29, 122.94s/it]
+ 85%|████████▌ | 51/60 [1:45:12<18:27, 123.02s/it]
+ 87%|████████▋ | 52/60 [1:47:16<16:24, 123.08s/it]
+ 88%|████████▊ | 53/60 [1:49:19<14:21, 123.11s/it]
+ 90%|█████████ | 54/60 [1:51:22<12:18, 123.15s/it]
+ 92%|█████████▏| 55/60 [1:53:26<10:16, 123.29s/it]
+ 93%|█████████▎| 56/60 [1:55:29<08:13, 123.36s/it]
+ 95%|█████████▌| 57/60 [1:57:33<06:10, 123.44s/it]
+ 97%|█████████▋| 58/60 [1:59:37<04:07, 123.65s/it]
+ 98%|█████████▊| 59/60 [2:01:41<02:03, 123.77s/it]
+100%|██████████| 60/60 [2:03:45<00:00, 123.96s/it]
+100%|██████████| 60/60 [2:03:45<00:00, 123.76s/it]
+2026-05-01T22:58:30 [INFO] pipeline.video_gen - Video successfully saved to /opt/video_out/pipeline_result.mp4
+2026-05-01T22:58:31 [INFO] __main__ - Pipeline completed successfully.
